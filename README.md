@@ -11,8 +11,7 @@ This is a Blog Analytics and Search Tool Built with Express.js, Node.js and loda
   - [Installation](#installation)
 - [Usage](#usage)
 - [Caching](#caching)
-- [Contributing](#contributing)
-- [License](#license)
+- [Authors](#authors)
 
 ## About
 
@@ -84,6 +83,6 @@ To set up the project and run it on your local machine, do the following.
 
 This project uses caching to store and retrieve analytics results and search results for a certain period. The caching mechanism ensures that the same requests made within the caching period return cached results instead of re-fetching and re-analyzing the data.
 
-## Author
+## Authors
 
 [Mercy Korir](https://github.com/MercyKorir)
